@@ -49,11 +49,11 @@ Sistema avançado de personalização que pode ser gerenciado por meio da GUI do
 
 ## 🚀 Instalação
 
-1.  Baixe o arquivo `ServidorUnico-v1.0.jar`.
+1.  Baixe o arquivo do plugin chamado **`Servidor.jar`**.
 2.  Coloque-o na pasta `plugins/` do seu servidor 1.8.8.
-3.  Inicie e depois pare o servidor para que os arquivos de configuração sejam gerados (pasta `plugins/ServidorUnico`).
+3.  **Pare** e **inicie** o servidor para que os arquivos de configuração (na pasta `plugins/ServidorUnico`) sejam gerados.
 4.  Configure os mapas, mensagens e permissões nos arquivos `.yml`.
-5.  Inicie o servidor e divirta-se!
+5.  Reinicie o servidor e divirta-se!
 
 ## 📜 Comandos
 
