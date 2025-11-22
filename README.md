@@ -51,9 +51,9 @@ Sistema avançado de personalização que pode ser gerenciado por meio da GUI do
 
 1.  Baixe o arquivo do plugin chamado **`Servidor.jar`**.
 2.  Coloque-o na pasta `plugins/` do seu servidor 1.8.8.
-3.  **Pare** e **inicie** o servidor para que os arquivos de configuração (na pasta `plugins/ServidorUnico`) sejam gerados.
-4.  Configure os mapas, mensagens e permissões nos arquivos `.yml`.
-5.  Reinicie o servidor e divirta-se!
+3.  **Pare** e **inicie** o servidor. O plugin irá criar automaticamente a pasta de configuração `plugins/Servidor/`.
+4.  Edite os arquivos de configuração (como `config.yml`) dentro da pasta **`plugins/Servidor`**.
+5.  Reinicie o servidor para aplicar as configurações e divirta-se!
 
 ## 📜 Comandos
 
